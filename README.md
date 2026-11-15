@@ -2,7 +2,9 @@
 
 A darker, higher-contrast take on Rosé Pine, born inside tmux, for Starship.
 
-![Hell Pine in Neovim, the terminal and tmux](https://raw.githubusercontent.com/abxengg/hell-pine.nvim/main/assets/hero.png)
+![A Starship prompt using the hell_pine palette](preview.png)
+
+Captured from Starship with this palette: directory in foam, branch in iris, git status in love, language version in gold.
 
 ## Install
 
